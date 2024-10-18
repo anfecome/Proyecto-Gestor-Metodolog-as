@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.ucentral</groupId>
-	<artifactId>parqueadero</artifactId>
+	<artifactId>gestor_metodologias</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>parqueadero</name>
 	<description>Gestor de parqueadero</description>
