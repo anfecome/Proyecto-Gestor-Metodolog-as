@@ -1,7 +1,5 @@
 package co.ucentral.parqueadero.servicios;
 
-import co.ucentral.parqueadero.persistencia.entidades.Vehiculo;
-import co.ucentral.parqueadero.persistencia.repositorios.VehiculoRepositorio;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
